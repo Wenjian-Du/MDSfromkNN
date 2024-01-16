@@ -1,2 +1,2 @@
 # MDSfromkNN
-# The code will be released soon
+# The data will be released soon
